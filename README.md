@@ -1,2 +1,2 @@
 # Haskell-Programms
-Some easy Haskell programs
+Some Haskell programs
